@@ -1,0 +1,5 @@
+Promo:Trump Set:15.0
+Trump Fries:1:Crispiest in the WOrld:3.0
+Grilled Chicken:1:Too good:7.0
+McTrump Burger:1:Best Burger:10.0
+Promo:1:10.0

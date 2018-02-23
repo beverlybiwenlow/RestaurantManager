@@ -1,0 +1,11 @@
+Trump Fries:1:Crispiest in the WOrld:3.0
+Great Taco Wall:1:Only the good stuff inside:8.0
+The Trump Footlong:1:For the healthy ones:4.5
+Trump Burger:1:Too good:7.0
+McTrump Burger:1:Best Burger:10.0
+Orange Juice:1:So orange:2.5
+Coca Cola:2:Delicious and refreshing:1.8
+Iced Lemon Tea:2:Non-gassy and less sweet:2.2
+Latte:2:For the coffee lovers:3.2
+Sundae:3:For the hot days:2.1
+McFlurry:3:For the hotter days:2.9

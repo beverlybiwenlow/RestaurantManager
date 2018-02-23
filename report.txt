@@ -1,0 +1,7 @@
+Time period of report: From 0 days ago to 0 days ago.
+
+Item name: Trump Fries
+Unit price: $3.0
+Total sales: $3.0
+
+Total revenue of all products during time period: $3.0

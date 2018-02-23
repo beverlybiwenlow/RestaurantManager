@@ -1,0 +1,6 @@
+Derek:M:322:Janitor
+Beverly:F:321:chef
+WenJun:M:123:Manager
+Crystal:F:2:CEO
+junyu:m:45:janitor
+tinghao:m:1:ceo
